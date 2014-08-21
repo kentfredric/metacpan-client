@@ -1,6 +1,7 @@
 Revision history for MetaCPAN-Client (previously MetaCPAN-API)
 
             * Ship META.json (kentnl)
+            * Export x_contributors in META (kentnl)
 
 1.007001    09.10.14
             * GH #18: HTTP::Tiny::Mech and WWW::Mechanize::Cached downgraded to being non-essential for tests (kentnl)
